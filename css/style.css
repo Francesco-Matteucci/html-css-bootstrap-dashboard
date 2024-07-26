@@ -11,3 +11,7 @@ header img {
     font-size: 2rem;
     color: #fff;
 }
+
+table>* {
+    padding-top: 2px;
+}
