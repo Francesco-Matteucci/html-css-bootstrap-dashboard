@@ -1,0 +1,13 @@
+header img {
+    width: 70px;
+}
+
+.freelancer-header .navbar-toggler {
+    border-color: #fff;
+
+}
+
+.freelancer-header .bi-list {
+    font-size: 2rem;
+    color: #fff;
+}
