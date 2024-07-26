@@ -1,5 +1,6 @@
 header img {
     width: 70px;
+
 }
 
 .freelancer-header .navbar-toggler {
@@ -14,4 +15,19 @@ header img {
 
 table>* {
     padding-top: 2px;
+}
+
+#option2 {
+    border-bottom: 1px solid #000;
+    border-top: 1px solid #000;
+    ;
+}
+
+.card-body .accordion {
+    border: 0;
+}
+
+.accordion-item {
+    background-color: #fff;
+
 }
